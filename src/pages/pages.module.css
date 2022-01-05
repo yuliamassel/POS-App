@@ -1,0 +1,24 @@
+.home{
+    width: 100vw;    
+    height: 100vh;
+    background-color: #BEC3CA4D;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    overflow: hidden;
+}
+
+.gambar{
+    transform: translate(20vw, 10vh);
+}
+
+.text{
+    font-weight: bold;
+    transform: translateX(40vw);
+}
+
+.history{
+    width: 100vw;    
+    height: 100vh;
+    overflow: hidden;
+}

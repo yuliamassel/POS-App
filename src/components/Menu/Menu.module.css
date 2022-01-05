@@ -1,0 +1,10 @@
+.Menu{
+    width: 55vw;
+    height: 95vh;
+    transform: translate(5vw, -80vh) ; 
+    background-color: #BEC3CA4D;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    overflow: hidden;
+}

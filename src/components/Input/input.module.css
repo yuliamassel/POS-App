@@ -1,0 +1,20 @@
+.input{
+    width: 50vw;
+    height: 10vh;
+    border: none;   
+    color: black;
+    transform: translate(7vh, -7vw);
+    outline: none;
+}
+
+.input,
+.input::-webkit-input-placeholder {
+    font-size: 40px;
+    line-height: 3;
+    font-weight: bold;
+}
+.input,
+.input::-webkit-input{
+    font-weight: 600;
+    color: rgba(0, 0, 0, 0.50);
+}

@@ -1,0 +1,61 @@
+.sidebar{
+    width: 5%;
+    position: relative;
+    height: 90vh;
+    transform: translate(-60vw, 10vh) ; 
+    border: 1px solid #BEC3CA4D;
+    background: #fff;
+}
+
+.btnSatu{
+    width: 5vw;
+    height: 10vh;
+    border: none;
+    transform: translate(0vh, 3vw);
+    background: url(/public/images/clipboard.svg);
+    background-position:center;
+    background-repeat:no-repeat;
+}
+
+.btnDua{
+    width: 5vw;
+    height: 10vh;
+    border: none;
+    transform: translate(0vh, 5vw);
+    background: url(/public/images/fork.svg);
+    background-position:center;
+    background-repeat:no-repeat;
+}
+
+.btnTiga{
+    width: 5vw;
+    height: 10vh;
+    border: none;
+    transform: translate(0vh, 7vw);
+    background: url(/public/images/add.svg);
+    background-position:center;
+    background-repeat:no-repeat;
+}
+
+
+.btnCancel{
+    width: 10vw;
+    height: 6vh;
+    background-color: #F24F8A;
+    border: none;
+    margin-left: 27vw;
+    border-radius: 6px;
+    color: #fff;
+    font-size: 18px;
+}
+.btnAdd{
+    width: 10vw;
+    height: 6vh;
+    background-color: #57CAD5;
+    margin-left: 2vw;
+    border: none;
+    border-radius: 6px;
+    color: #fff;
+    font-size: 18px;
+}
+
